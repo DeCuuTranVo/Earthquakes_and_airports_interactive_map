@@ -7,6 +7,8 @@ Reference: Starter code from UCSD Professors.
 Interactively visualize earthquakes and affected cities with associated information (magnitude, depth, populations).
 
 ## Final Project: Tansonnhat International Airport-Vietnam, the flight routes out of this airport, and the destination cities.
+![Alt text](./Screenshot-airport-project.png?raw=true "Title")
+
 ### Program functionality
 
 My program has several functionalities. First, my program takes input from a different source of data (airports and routes) to show all airports and flight routes on the world map. Second, I adjust the interactive behaviors of the program. Specifically, if the user hovers the mouse on the marker of an airport, a rectangular text box will appear and show information about the airport’s name, city, and country. Furthermore, if the user clicks on the marker of an airport, the map will display the clicked airport, the one-route-connected airports with the clicked airports, and the connecting flight route. In this case, unrelated airports and routes are hidden. Third, I modify the map's appearance by customizing the size, and color of the map legends. On the map, the clicked airport is marked with a big black circle with a green border, the airports being hovered are labeled with big black circles with white borders, and all the other airports are annotated with small white-bordered black circles. Additionally, the flight routes are denoted as gray straight lines. 
