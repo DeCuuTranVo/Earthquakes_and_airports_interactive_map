@@ -1,5 +1,7 @@
-# Earthquakes_and_airports_interactive_map
-Incorporate inheritance, polymorphism, abstraction, event handling concepts, and UML models in building class hierarchy.
+# Earthquakes and Airports Interactive Map
+This repository contained the code I implemented in the couse Object-Oriented Programming in Java on Coursera. 
+Through this course, I learnt to incorporate inheritance, polymorphism, abstraction, event handling concepts in the program; and utilizing UML models in building the class hierarchy.
+Reference: Starter code from UCSD Professors.
 
 ## Course Project: Earthquakes and cities visualization on world map. 
 Interactively visualize earthquakes and affected cities with associated information (magnitude, depth, populations).
