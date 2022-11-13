@@ -5,6 +5,10 @@ Reference: Starter code from UCSD Professors.
 
 ## Course Project: Earthquakes and cities visualization on world map. 
 Interactively visualize earthquakes and affected cities with associated information (magnitude, depth, populations).
+![Alt text](./Screenshot-earthquake-city-map-1.png?raw=true "Title")
+
+When a marker of an earthquake is clicked, all the cities outside of its affected area with be hidden. 
+![Alt text](./Screenshot-earthquake-city-map-2.png?raw=true "Title")
 
 ## Final Project: Tansonnhat International Airport-Vietnam, the flight routes out of this airport, and the destination cities.
 ![Alt text](./Screenshot-airport-project.png?raw=true "Title")
